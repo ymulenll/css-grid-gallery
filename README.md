@@ -1,4 +1,5 @@
 # CSS Grid gallery
 
-Ejemplo creado para el video que publiqué en mi canal de youtube:
-https://youtu.be/f3902x_dqqQ
+Galería de imágenes responsive usando CSS GRID
+
+[![Galería de imágenes responsive usando CSS GRID](https://img.youtube.com/vi/f3902x_dqqQ/0.jpg)](https://www.youtube.com/watch?v=f3902x_dqqQ "CSS Flexbox | Galería de imágenes responsive usando CSS GRID")
